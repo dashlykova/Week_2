@@ -11,17 +11,11 @@ document.getElementById("jokeButton").addEventListener("click", function(){
     let randomJokes=['Throwing acid is wrong, in some peoples eyes.', 
 
 'The first time I got a universal remote control I thought to myself, "This changes everything"',
-
 'Say what you want about deaf people...',
-
 'I have spent the last four years looking for my ex-girlfriend s killer, but no-one will do it.', 
-
 'I refused to believe my road worker father was stealing from his job, but when I got home all the signs were there.',
-
 'I recently decided to sell my vacuum cleaner as all it was doing was gathering dust.',
-
 'You can never lose a homing pigeon - if your homing pigeon doesnt come back what you have lost is a pigeon.',
-
 'My girlfriend told me to go out and get something that makes her look sexy... so I got drunk.',
 'Dont you hate it when someone answers their own questions? I do.',
 'As I watched the dog chasing his tail I thought "Dogs are easily amused", then I realized I was watching the dog chasing his tail.',
