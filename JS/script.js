@@ -1,6 +1,6 @@
 //Got help from https://www.w3schools.com/js/default.asp for finding appropriate methods
 
-console.log('Dash')
+
 document.getElementById("datebutt").addEventListener("click", function(){
     let today = new Date(); 
     document.getElementById("output").innerHTML = today.toDateString();
